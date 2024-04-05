@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello AWS
-=======
 Hello GIT
->>>>>>> 35e7eb6 (Commited file19 from master)
